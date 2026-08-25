@@ -1,0 +1,10 @@
+theme: jekyll-theme-cayman
+title: BEYOND REPAIR 공개 문서
+description: 개인정보 처리방침
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
